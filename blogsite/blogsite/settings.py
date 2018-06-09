@@ -26,7 +26,7 @@ SECRET_KEY = '+cxf9q*7s1hduo2+zn#7mby2dhuyvbje^hbfl9-0mpc9uzi#%$'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-'jorgeddw.pythonanywhere.com/',
+'jorgeddw.pythonanywhere.com',
 'localhost']
 
 
